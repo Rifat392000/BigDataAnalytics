@@ -1,0 +1,9 @@
+Given the following input file, you must write MapReduce programs in Java to do the following.
+
+1. Find the occurrences of each page (numbered as 1, 2, 3, and so on). 
+2. Find the most visited page. You may use the output file generated from Question 1 as an input file to solve this problem.
+3. Find the least visited page. You may use the output file generated from Question 1 as an input file to solve this problem.
+4. Find the frequency of pairs. In this case, remove the duplicate numbers from each transaction as a data pre-processing step. Use the concept of Java set for removing duplicates.
+
+
+After solving a problem, show your solution to the instructor and later, submit a report showing the screenshots of execution of each problem.

@@ -1,0 +1,10 @@
+Write a MapReduce Program in Java that can count pairs (2-itemsets) frequency.
+
+Use the following dataset.
+
+
+K, A, D, B
+D, A, C, E, B
+C, A, B, E
+B, A, D
+E, A

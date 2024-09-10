@@ -1,0 +1,6 @@
+Show all the steps to execute the WordCount application in Hadoop MapReduce Environment. 
+You have to describe the necessary steps and show the screenshots as required.
+The codes of the driver, mapper, and reducer classes are also given.
+You may use the attached template.
+
+Clarification: you need to submit only the docx file within which you may put the code. You have to make sure that the report can serve as a complete tutorial for a beginner.
